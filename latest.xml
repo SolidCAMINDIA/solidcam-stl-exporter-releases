@@ -1,4 +1,4 @@
-<release version="1.1.1" date="2026-11-21" url="https://raw.githubusercontent.com/SolidCAMINDIA/solidcam-stl-exporter-releases/main/releases/SolidCamStlExporter-1.1.1.zip" sha256="1f6bd96b350a66c3e627395f7ec86a399797d41c9888803b702c598a510ff85e">
+<release version="1.1.1" date="2026-11-21" url="https://raw.githubusercontent.com/SolidCAMINDIA/solidcam-stl-exporter-releases/main/releases/SolidCamStlExporter-1.1.1.zip" sha256="09d722f095287b119b8b0afb196c0a98343aaee8908e661fdb106297fa1ed30b">
   <notes>- Fixed "Could not load the VMID: Method not found String.TrimStart" in 1.1.0.
 - install.cmd unblocks downloaded files before registering.</notes>
 </release>
