@@ -1,0 +1,8 @@
+<release version="1.1.0" date="2026-11-21" url="https://raw.githubusercontent.com/SolidCAMINDIA/solidcam-stl-exporter-releases/main/releases/SolidCamStlExporter-1.1.0.zip" sha256="27805196bded93933a3990809c4054d99f86e9e002ed2302593f252980936e6f">
+  <notes>First version with automatic updates.
+- Checks for new versions when SOLIDWORKS starts; Check for updates link in the panel.
+- Open VMID and Reload VMID buttons; Clear Selection.
+- Axis vectors and rotation points editable in the preview.
+- External STL transforms (e.g. SolidCAMLogo) with four placement methods.
+- Fixed the workpiece virtual transformation error.</notes>
+</release>
