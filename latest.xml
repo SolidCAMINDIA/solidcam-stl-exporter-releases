@@ -1,4 +1,7 @@
-<release version="1.1.1" date="2026-11-21" url="https://raw.githubusercontent.com/SolidCAMINDIA/solidcam-stl-exporter-releases/main/releases/SolidCamStlExporter-1.1.1.zip" sha256="09d722f095287b119b8b0afb196c0a98343aaee8908e661fdb106297fa1ed30b">
-  <notes>- Fixed "Could not load the VMID: Method not found String.TrimStart" in 1.1.0.
-- install.cmd unblocks downloaded files before registering.</notes>
+<release version="1.2.0" date="2026-11-25" url="https://raw.githubusercontent.com/SolidCAMINDIA/solidcam-stl-exporter-releases/main/releases/v1.2.0/SolidCAM-STL-Exporter.zip" sha256="bae92f48d4a8a7d9a86addda942ad68bc94943cd90de1773f8d681fa908d9ad1">
+  <notes>- New "SolidCAM Automation" tab in SOLIDWORKS with the Machine Simulation Builder button. It opens a resizable window (VMID toolbar, Geometry / Machine axes / Export panes, Output Log, Check for updates). The task pane tab is gone.
+- Add axis is now on the right-click menu of Machine base.
+- New Install.exe and Uninstall.exe: double-click and allow the change; they work where scripts are blocked and write install.log.
+- install.cmd asks for administrator rights itself and handles folders with brackets.
+- Assignments, preview, ModuleWorks, external STL, VMID reload and selection sync work as before.</notes>
 </release>
